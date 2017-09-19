@@ -1,1 +1,1 @@
-# 170919 Created intro_demo project for R
+# intro_demo project notes
